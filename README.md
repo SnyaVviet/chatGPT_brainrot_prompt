@@ -1,6 +1,6 @@
 # chatGPT_brainrot_prompt-
 
-## H2 — Welcome to Brainrot Prompt™
+# Welcome to Brainrot Prompt™
 
 ![brainrot prompt logo1](https://github.com/user-attachments/assets/86f9cc99-634a-48c6-924f-1608bcc5a7b8)
 
